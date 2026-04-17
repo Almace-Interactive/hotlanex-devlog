@@ -1,6 +1,38 @@
 baseURL = 'https://shwetanksingh007.github.io/'
-locale = 'en-us'
+languageCode = 'en-us'
 title = 'Hotlanex Devlog'
 theme = "PaperMod"
+
 [params]
   robots = "noindex, nofollow"
+
+  defaultTheme = "dark"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[params.homeInfoParams]
+  Title = "Hotlanex Devlog"
+  Content = "Building games, experimenting with AI, and documenting everything 🚀"
+
+[menu]
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Devlogs"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "projects"
+  name = "Projects"
+  url = "/projects/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/pages/about/"
+  weight = 30
