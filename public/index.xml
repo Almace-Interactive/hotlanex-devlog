@@ -36,5 +36,12 @@
       <guid>http://localhost:1313/posts/devlog-1/</guid>
       <description>First progress update</description>
     </item>
+    <item>
+      <title>Hotlanex</title>
+      <link>http://localhost:1313/projects/hotlanex/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/hotlanex/</guid>
+      <description>A fast-paced AI-driven racing game with intelligent enemies and dynamic gameplay.</description>
+    </item>
   </channel>
 </rss>
