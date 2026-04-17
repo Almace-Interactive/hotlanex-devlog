@@ -2,3 +2,5 @@ baseURL = 'https://shwetanksingh007.github.io/'
 locale = 'en-us'
 title = 'Hotlanex Devlog'
 theme = "PaperMod"
+[params]
+  robots = "noindex, nofollow"
