@@ -2,6 +2,8 @@ baseURL = 'https://69e34513a51c7f000865d223--hotlanexdevlog.netlify.app/'
 languageCode = 'en-us'
 title = 'Hotlanex Devlog'
 theme = "PaperMod"
+relativeURLs = true
+canonifyURLs = false
 
 [params]
   robots = "noindex, nofollow"
