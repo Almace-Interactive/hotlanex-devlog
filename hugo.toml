@@ -5,6 +5,7 @@ theme = "PaperMod"
 
 [params]
   robots = "noindex, nofollow"
+  mainSections = ["posts"]
 
   defaultTheme = "dark"
   ShowReadingTime = true

@@ -26,7 +26,6 @@ Hotlanex is a high-speed racing game where the player escapes from AI enemies wh
 ## 🖼️ Screenshots
 
 ![Gameplay](/images/game1.png)
-![Garage](/images/game2.png)
 
 ---
 
@@ -39,13 +38,7 @@ Hotlanex is a high-speed racing game where the player escapes from AI enemies wh
 ---
 
 ## 📊 Current Status
-🚧 In Development
-
----
-
-## 🔗 Devlogs
-- [Devlog #1](/posts/devlog-1/)
-- [First Post](/posts/first-post/)
+🚧 In Developmentxq~z
 
 ---
 

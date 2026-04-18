@@ -9,13 +9,6 @@
     <lastBuildDate>Fri, 17 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/game-dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Devlog #1</title>
-      <link>http://localhost:1313/posts/devlog-1/</link>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/devlog-1/</guid>
-      <description>First progress update</description>
-    </item>
-    <item>
       <title>Hotlanex</title>
       <link>http://localhost:1313/projects/hotlanex/</link>
       <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>

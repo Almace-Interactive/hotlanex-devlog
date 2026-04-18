@@ -11,28 +11,13 @@
     <loc>http://localhost:1313/pages/</loc>
     <lastmod>2026-04-17T20:32:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/my-game/</loc>
-    <lastmod>2026-04-17T20:32:16+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2026-04-17T20:32:16+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/first-post/</loc>
-    <lastmod>2026-04-17T18:13:28+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-04-17T18:13:28+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/devlog/</loc>
-    <lastmod>2026-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/devlog-1/</loc>
+    <loc>http://localhost:1313/posts/first-post/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/game-dev/</loc>
@@ -41,7 +26,13 @@
     <loc>http://localhost:1313/projects/hotlanex/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-04-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/project/</loc>
+    <lastmod>2026-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
