@@ -1,4 +1,4 @@
-baseURL = 'https://Almace-Interactive.github.io/hotlanex-devlog/'
+baseURL = 'https://Almace-Interactive.github.io/'
 languageCode = 'en-us'
 title = 'Hotlanex Devlog'
 theme = "PaperMod"
