@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>http://localhost:1313/hotlanex-devlog/archives/</loc>
     <lastmod>2026-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/hotlanex-devlog/</loc>
     <lastmod>2026-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/hotlanex-devlog/posts/</loc>
     <lastmod>2026-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/second-post/</loc>
+    <loc>http://localhost:1313/hotlanex-devlog/posts/second-post/</loc>
     <lastmod>2026-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/third-post/</loc>
+    <loc>http://localhost:1313/hotlanex-devlog/posts/third-post/</loc>
     <lastmod>2026-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/about/</loc>
+    <loc>http://localhost:1313/hotlanex-devlog/pages/about/</loc>
     <lastmod>2026-04-17T20:32:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/</loc>
+    <loc>http://localhost:1313/hotlanex-devlog/pages/</loc>
     <lastmod>2026-04-17T20:32:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
+    <loc>http://localhost:1313/hotlanex-devlog/tags/ai/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/hotlanex-devlog/categories/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/first-post/</loc>
+    <loc>http://localhost:1313/hotlanex-devlog/posts/first-post/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/fourth-post/</loc>
+    <loc>http://localhost:1313/hotlanex-devlog/posts/fourth-post/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/game-dev/</loc>
+    <loc>http://localhost:1313/hotlanex-devlog/tags/game-dev/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/hotlanex/</loc>
+    <loc>http://localhost:1313/hotlanex-devlog/projects/hotlanex/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/project/</loc>
+    <loc>http://localhost:1313/hotlanex-devlog/categories/project/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:1313/hotlanex-devlog/projects/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/hotlanex-devlog/tags/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/unity/</loc>
+    <loc>http://localhost:1313/hotlanex-devlog/tags/unity/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/fifth-post/</loc>
+    <loc>http://localhost:1313/hotlanex-devlog/posts/fifth-post/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sixth-post/</loc>
+    <loc>http://localhost:1313/hotlanex-devlog/posts/sixth-post/</loc>
     <lastmod>2026-04-15T00:00:00+00:00</lastmod>
   </url>
 </urlset>
