@@ -16,6 +16,13 @@
       <description>Follow-up post with an image.</description>
     </item>
     <item>
+      <title>Third Post</title>
+      <link>http://localhost:1313/posts/third-post/</link>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/third-post/</guid>
+      <description>Short post without image.</description>
+    </item>
+    <item>
       <title>About</title>
       <link>http://localhost:1313/pages/about/</link>
       <pubDate>Fri, 17 Apr 2026 20:32:21 +0530</pubDate>
@@ -30,11 +37,32 @@
       <description>Initial setup of the devlog and project structure.</description>
     </item>
     <item>
+      <title>Fourth Post</title>
+      <link>http://localhost:1313/posts/fourth-post/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fourth-post/</guid>
+      <description>Short post without image.</description>
+    </item>
+    <item>
       <title>Hotlanex</title>
       <link>http://localhost:1313/projects/hotlanex/</link>
       <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/hotlanex/</guid>
       <description>A fast-paced AI-driven racing game with intelligent enemies and dynamic gameplay.</description>
+    </item>
+    <item>
+      <title>Fifth Post</title>
+      <link>http://localhost:1313/posts/fifth-post/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fifth-post/</guid>
+      <description>Short post without image.</description>
+    </item>
+    <item>
+      <title>Sixth Post</title>
+      <link>http://localhost:1313/posts/sixth-post/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sixth-post/</guid>
+      <description>Short post without image.</description>
     </item>
   </channel>
 </rss>
