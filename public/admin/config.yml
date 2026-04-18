@@ -1,6 +1,5 @@
 backend:
-name: github
-repo: shwetanksingh007/hotlanex-devlog
+name: git-gateway
 branch: main
 
 media_folder: "static/images"
@@ -8,13 +7,13 @@ public_folder: "/images"
 
 collections:
 
-* name: "posts"
+- name: "posts"
   label: "Posts"
   folder: "content/posts"
   create: true
   slug: "{{slug}}"
   fields:
 
-  * { label: "Title", name: "title", widget: "string" }
-  * { label: "Date", name: "date", widget: "datetime" }
-  * { label: "Body", name: "body", widget: "markdown" }
+  - { label: "Title", name: "title", widget: "string" }
+  - { label: "Date", name: "date", widget: "datetime" }
+  - { label: "Body", name: "body", widget: "markdown" }
