@@ -27,12 +27,6 @@ theme = "PaperMod"
   weight = 10
 
 [[menu.main]]
-  identifier = "about"
-  name = "About"
-  url = "/pages/about/"
-  weight = 30
-
-[[menu.main]]
   identifier = "archives"
   name = "Archive"
   url = "/archives/"
