@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/archives/</loc>
+    <lastmod>2026-04-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-04-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,6 +12,9 @@
     <lastmod>2026-04-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/second-post/</loc>
+    <lastmod>2026-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/third-post/</loc>
     <lastmod>2026-04-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pages/about/</loc>
@@ -24,6 +30,9 @@
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/first-post/</loc>
+    <lastmod>2026-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/fourth-post/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/game-dev/</loc>
@@ -43,5 +52,11 @@
   </url><url>
     <loc>http://localhost:1313/tags/unity/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/fifth-post/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/sixth-post/</loc>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
   </url>
 </urlset>
